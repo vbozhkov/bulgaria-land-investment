@@ -1,0 +1,29 @@
+# GitHub Pages configuration
+theme: minima
+title: "Bulgaria Land Guide"
+description: "Complete investment guide for Bulgarian agricultural land - prices, returns, legal requirements for EU investors"
+baseurl: "/bulgaria-land-site"
+url: "https://username.github.io"
+
+# SEO
+lang: en
+author: Bulgaria Land Guide
+
+# Social
+social_links:
+  github: 
+  email: 
+
+# Google Analytics (replace with actual ID when available)
+google_analytics: 
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Exclude
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
